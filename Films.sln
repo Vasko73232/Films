@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Films.Sturtup", "Films.Sturtup\Films.Sturtup.csproj", "{A58ED395-2C2E-4D2F-96E0-EF2B609BAB86}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Films.Core", "Films.Core\Films.Core.csproj", "{18C35354-8895-4255-8363-A713D5F51A18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Films.Infrastructure", "Films.Infrastructure\Films.Infrastructure.csproj", "{F3AEBC47-A77F-4DEE-AAB1-22D044DA9FEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A58ED395-2C2E-4D2F-96E0-EF2B609BAB86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A58ED395-2C2E-4D2F-96E0-EF2B609BAB86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A58ED395-2C2E-4D2F-96E0-EF2B609BAB86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A58ED395-2C2E-4D2F-96E0-EF2B609BAB86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18C35354-8895-4255-8363-A713D5F51A18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18C35354-8895-4255-8363-A713D5F51A18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18C35354-8895-4255-8363-A713D5F51A18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18C35354-8895-4255-8363-A713D5F51A18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3AEBC47-A77F-4DEE-AAB1-22D044DA9FEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3AEBC47-A77F-4DEE-AAB1-22D044DA9FEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3AEBC47-A77F-4DEE-AAB1-22D044DA9FEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3AEBC47-A77F-4DEE-AAB1-22D044DA9FEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

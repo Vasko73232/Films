@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9f319dea-483d-4679-9579-dfa7c5fe5381" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Films.Core/Domain/Model/Film.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Films.Core/Domain/Model/Film.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Films.Core/Domain/Specifications/PostSpecification.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Films.Core/Domain/Specifications/PostSpecification.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Films.Infrastructure/Database/TypeConfigurations/PostEntityTypeConfiguration.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Films.Infrastructure/Database/TypeConfigurations/PostEntityTypeConfiguration.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Features/Post/CretaeNewPostCommand.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Features/Post/CretaeNewPostCommand.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Features/Wether/GetPostQuery.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Features/Wether/GetPostQuery.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewJS.js" beforeDir="false" afterPath="$PROJECT_DIR$/NewJS.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="27O23BnFhA23EYDKBfBebFANps7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="NodeJSConfigurationType" nameIsGenerated="true" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9f319dea-483d-4679-9579-dfa7c5fe5381" name="Changes" comment="" />
+      <created>1649176612310</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1649176612310</updated>
+      <workItem from="1649176613866" duration="511000" />
+      <workItem from="1649190177381" duration="634000" />
+      <workItem from="1649192285791" duration="41000" />
+      <workItem from="1649245530605" duration="5441000" />
+      <workItem from="1649319549940" duration="471000" />
+      <workItem from="1649322931693" duration="182000" />
+      <workItem from="1649337521173" duration="4000" />
+      <workItem from="1649340997773" duration="54000" />
+      <workItem from="1649412273367" duration="662000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/NewJS.js</url>
+          <line>37</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
